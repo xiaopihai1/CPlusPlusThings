@@ -15,6 +15,6 @@ int main(int argc, char const *argv[])
     {
         cout<<year<<" is not a leap year"<<endl;
     }
-    system("pause");
+    //system("pause");
     return 0;
 }
